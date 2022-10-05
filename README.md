@@ -8,7 +8,7 @@
   <img align="center" alt="Laisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Laisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Laisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Laisa-pic" height="150" style="border-radius:50px;" src="download20221003103302">
+  <img align="right" alt="Laisa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=zM2DpkReTO #Picrew #AmphyPop_Doll_Maker">
 </div>
   
   ##
