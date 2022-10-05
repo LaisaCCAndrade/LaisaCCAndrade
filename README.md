@@ -15,6 +15,7 @@
 <div> 
  <a href="/https://www.instagram.com/laisaandrade26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/laisa-c-c-andrade-9760bb131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://github.com/LaisaCCAndrade/LaisaCCAndrade/raw/output/github-contribution-grid-snake.svg" alt="Animação de cobra" style="max-width: 100%;">
  
   ![Snake animation](https://github.com/LaisaCCAndrade/LaisaCCAndrade/blob/main/.github-contribution-snake.svg)
  
