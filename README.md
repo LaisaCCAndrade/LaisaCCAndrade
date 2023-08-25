@@ -1,6 +1,7 @@
-## Olá! Eu sou a Laisa Andrade 🖐️
-
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Laisa Andrade</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 <div align="center">
+  
   <a href="https://github.com/LaisaCCAndrade">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaisaCCAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisaCCAndrade&layout=compact&langs_count=7&theme=dracula"/>
