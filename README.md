@@ -5,6 +5,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaisaCCAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisaCCAndrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br>
     
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
