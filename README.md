@@ -12,7 +12,7 @@
 
 <div align="right">
     <img width="250" title="lofi study" src="https://github.com/adrianefelicio/adrianefelicio/blob/main/gifs/gif-.gif?raw=true"/>
-</div><br>
+</div>
     
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,12 +26,18 @@
   ##
  
 <div align="center"> 
- <a href="https://www.instagram.com/laisaandrade26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/laisa-c-c-andrade-9760bb131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+  <a href="https://www.instagram.com/laisaandrade26/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/laisa-c-c-andrade-9760bb131/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
  
- <br>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LaisaCCAndrade&color=b8136f" alt="Profile views" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=LaisaCCAndrade&color=b8136f" alt="Profile views" /> 
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b8136f&height=120&section=footer"/>
