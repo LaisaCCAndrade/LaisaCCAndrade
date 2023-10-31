@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b8136f&height=120&section=header"/>
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou a Laisa Andrade <a href="https://my-portfolio-phi-dusky.vercel.app/" target="_blank"></h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou a Laisa Andrade</h1>
 
 <br>
 
@@ -31,9 +31,6 @@
   </a>
   <a href="https://www.linkedin.com/in/laisa-c-c-andrade-9760bb131/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-   <a href="https://my-portfolio-phi-dusky.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portf%C3%B3lio-%2222E4405F?style=for-the-badge&logo=Portf%C3%B3lio&logoColor=white" target="_blank">
   </a> 
 </div>
  
