@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b8136f&height=120&section=header"/>
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou a Laisa Andrade</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou a Laisa Andrade <a href="https://my-portfolio-phi-dusky.vercel.app/" target="_blank"></h1>
 
 <br>
 
 <div align="left">  
-  <a href="https://my-portfolio-phi-dusky.vercel.app/">
+  <a href="https://github.com/LaisaCCAndrade">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaisaCCAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisaCCAndrade&layout=compact&langs_count=7&theme=radical"/>
 </div>
